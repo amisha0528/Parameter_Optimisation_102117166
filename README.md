@@ -4,4 +4,4 @@
 
 ## Convergence Graph
 
-![graph](./Convergence_graph.png)
+![graph](./Convergence_Graph.png)
